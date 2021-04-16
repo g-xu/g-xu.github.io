@@ -3,7 +3,7 @@
     - [c](demo-stm32f103ve.md)
     - [python](demo-stm32f405rg.md)
     * [aa](demo-stm32f405rg-spi-flash.md)
-    - [](demo-esp8266-spi-flash.md)
+    - [中文](demo-esp8266-spi-flash.md)
     - [](demo-linux.md)
   - [Demo details](demo-details.md)
 - 
