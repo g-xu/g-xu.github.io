@@ -6,4 +6,4 @@
 - work tips
 
 [收藏](/README.md)
-[DVBFinder](http://www.dvbfinder.com)
+[积累](/README.md)
