@@ -1,11 +1,11 @@
 
-* 收藏链接
+* :link:收藏链接
 
-  * [编程](program.md)
-  * [工具](tool.md)
+  * [:desktop_computer: 编程](program.md)
+  * [:hammer_and_wrench: 工具](tool.md)
 
-* 知识积累
+* :memo:知识积累
 
-    * [python](python.md)
-    * [c](c.md)
-    * [bash](bash.md)
+    * [:label: python](python.md)
+    * [:label: c](c.md)
+    * [:label: bash](bash.md)
