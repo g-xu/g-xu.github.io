@@ -11,6 +11,6 @@
     * [:notebook: bash](bash.md)
     * [:green_book: javascript](bash.md)
     
-* :memo:思维导图
+* :lollipop:思维导图
 
-    * [:books: xmind](xmind.md)
+    * [:scroll: xmind](xmind.md)
