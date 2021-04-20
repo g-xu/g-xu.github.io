@@ -36,4 +36,5 @@
 ## 网站
 * [python challenge](http://www.pythonchallenge.com/index.php)
 * [每天一本编程书](https://salttiger.com/)
+* [30秒代码](https://www.30secondsofcode.org/)
 

@@ -376,7 +376,7 @@ sorted(iterable, cmp=None, key=None, reverse=False) --> new sorted list
 看了上面这么多种对dictionary排序的方法，其实它们的核心思想都一样，即把dictionary中的元素分离出来放到一个list中，对list排序，从而间接实现对dictionary的排序。这个“元素”可以是key，value或者item。 
 
 
-# [python 小技巧合集]()
+## [python 小技巧合集]()
 
 ### 1.1 拆箱
 
@@ -1050,3 +1050,9 @@ pre-presbyopic      myope                   no                      normal      
 pre-presbyopic      hypermetrope            no                      normal                  soft
 presbyopic          hypermetrope            no                      normal                  soft
 ```
+
+## python代码实现
+- [crc](https://github.com/g-xu/g-xu.github.io/blob/master/python/crc.py)
+- [des/md5](https://github.com/g-xu/g-xu.github.io/blob/master/python/des_md5.py)
+- [string](https://github.com/g-xu/g-xu.github.io/blob/master/python/string.py)
+- [文件遍历](https://github.com/g-xu/g-xu.github.io/blob/master/python/traverse.py)
