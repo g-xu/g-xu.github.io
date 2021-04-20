@@ -22,13 +22,23 @@
     	subMaxLevel: 2,
     	name: 'g-xu',
       logo: '_media/logo.png height="100px"',
-    	nameLink: 'https://g-xu.github.io/',
+    	nameLink: '/',
     	
-      repo: 'g-xu/g-xu.github.io'
-    }
+      repo: 'g-xu/g-xu.github.io',
+      
+      requestHeaders: {
+    				'cache-control': 'max-age=600',
+  		},
+  		search: {
+				noData: '没有结果!',
+				paths: 'auto',
+				placeholder: '搜索',
+			},
+		}
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
