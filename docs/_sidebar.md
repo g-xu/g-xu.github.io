@@ -6,6 +6,11 @@
 
 * :memo:知识积累
 
-    * [:label: python](python.md)
-    * [:label: c](c.md)
-    * [:label: bash](bash.md)
+    * [:books: python](python.md)
+    * [:blue_book: c](c.md)
+    * [:notebook: bash](bash.md)
+    * [:green_book: javascript](bash.md)
+    
+* :memo:思维导图
+
+    * [:books: xmind](xmind.md)
