@@ -10,7 +10,5 @@
     * [:blue_book: c](c.md)
     * [:notebook: bash](bash.md)
     * [:green_book: javascript](bash.md)
+    * [:lollipop: xmind](xmind.md)
     
-* :lollipop:思维导图
-
-    * [:scroll: xmind](xmind.md)
