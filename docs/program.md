@@ -18,9 +18,10 @@
 * 
 
 ## linux
-* [linux命令查询](https://wangchujiang.com/linux-command/)
 * [linux常用C函数](http://net.pku.edu.cn/~yhf/linux_c/)
 * [GNU make中文手册](https://github.com/loverszhaokai/GNUMakeManual_CN)
+* [shell脚本大全](https://github.com/dunwu/linux-tutorial/tree/master/codes/shell)
+* [linux教程合集](https://dunwu.github.io/linux-tutorial/)
 * [SED单行脚本快速参考](http://sed.sourceforge.net/sed1line_zh-CN.html)
 * [正则表达式30分钟入门教程](https://deerchao.cn/tutorials/regex/regex.htm)
 * [USB_ModeSwitch](https://www.draisberghof.de/usb_modeswitch/#trouble)

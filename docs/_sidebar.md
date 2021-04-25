@@ -9,6 +9,6 @@
     * [:books: python](python.md)
     * [:blue_book: c](c.md)
     * [:notebook: bash](bash.md)
-    * [:green_book: javascript](bash.md)
+    * [:green_book: javascript](xmind.md/#Xcode)
     * [:lollipop: xmind](xmind.md)
     
