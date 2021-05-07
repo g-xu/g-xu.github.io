@@ -15,7 +15,6 @@
 * [字符串匹配算法大全](http://www-igm.univ-mlv.fr/~lecroq/string/)
 * [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
 * [算法可视化](https://algorithm-visualizer.org/)
-* 
 
 ## linux
 * [linux常用C函数](http://net.pku.edu.cn/~yhf/linux_c/)
@@ -38,4 +37,6 @@
 * [python challenge](http://www.pythonchallenge.com/index.php)
 * [每天一本编程书](https://salttiger.com/)
 * [30秒代码](https://www.30secondsofcode.org/)
+* [freecodecamp](https://www.freecodecamp.org/)
+* [javascript 30 projects](https://javascript30.com/)
 
