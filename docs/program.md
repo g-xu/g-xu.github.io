@@ -16,6 +16,9 @@
 * [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
 * [算法可视化](https://algorithm-visualizer.org/)
 
+## API ##
+* [各种编程语言api查询](https://devdocs.io)
+
 ## linux
 * [linux常用C函数](http://net.pku.edu.cn/~yhf/linux_c/)
 * [GNU make中文手册](https://github.com/loverszhaokai/GNUMakeManual_CN)
