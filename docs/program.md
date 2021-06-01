@@ -17,7 +17,9 @@
 * [算法可视化](https://algorithm-visualizer.org/)
 
 ## API ##
-* [各种编程语言api查询](https://devdocs.io)
+* [各种编程语言api在线查询](https://devdocs.io)
+* [CSS参考手册](http://css.doyoe.com/)
+* [javascript参考手册](https://tsejx.github.io/javascript-guidebook/)
 
 ## linux
 * [linux常用C函数](http://net.pku.edu.cn/~yhf/linux_c/)
