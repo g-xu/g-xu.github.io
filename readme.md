@@ -12,4 +12,4 @@
 	npm i docsify-cli -g  #首先安装docsify命令行
 	docsify init ./docs
 	```
-4. 后面主要就是参考docsify来增减内容就好了。		
+4. 开始运行 docsify serve docs		

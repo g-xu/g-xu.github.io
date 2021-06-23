@@ -18,6 +18,7 @@
 
 ## API ##
 * [各种编程语言api在线查询](https://devdocs.io)
+* [编程速查表](https://overapi.com/)
 * [CSS参考手册](http://css.doyoe.com/)
 * [javascript参考手册](https://tsejx.github.io/javascript-guidebook/)
 
