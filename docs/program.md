@@ -24,7 +24,7 @@
 
 ## linux
 * [linux常用C函数](http://net.pku.edu.cn/~yhf/linux_c/)
-* [GNU make中文手册](https://github.com/loverszhaokai/GNUMakeManual_CN)
+* [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 * [shell脚本大全](https://github.com/dunwu/linux-tutorial/tree/master/codes/shell)
 * [linux教程合集](https://dunwu.github.io/linux-tutorial/)
 * [SED单行脚本快速参考](http://sed.sourceforge.net/sed1line_zh-CN.html)
