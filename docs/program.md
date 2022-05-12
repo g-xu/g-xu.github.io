@@ -31,6 +31,10 @@
 * [正则表达式30分钟入门教程](https://deerchao.cn/tutorials/regex/regex.htm)
 * [USB_ModeSwitch](https://www.draisberghof.de/usb_modeswitch/#trouble)
 
+## shell
+* [bash功能例子](https://github.com/dylanaraps/pure-bash-bible#shorter-for-loop-syntax)
+* [很好的bash教程](https://wangdoc.com/bash/)
+
 ## DVB
 * [PSI信息](https://en.wikipedia.org/wiki/Program-specific_information)
 * [MPEG stream](https://en.wikipedia.org/wiki/MPEG_transport_stream)
