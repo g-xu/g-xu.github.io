@@ -11,4 +11,5 @@
     * [:notebook: bash](bash.md)
     * [:green_book: javascript](javascript.md)
     * [:lollipop: xmind](xmind.md)
+    * [:books: linux](linux.md)
     

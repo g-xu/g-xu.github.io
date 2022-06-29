@@ -32,8 +32,9 @@
 * [USB_ModeSwitch](https://www.draisberghof.de/usb_modeswitch/#trouble)
 
 ## shell
-* [bash功能例子](https://github.com/dylanaraps/pure-bash-bible#shorter-for-loop-syntax)
+* [bash功能例子](https://github.com/dylanaraps/pure-bash-bible)
 * [很好的bash教程](https://wangdoc.com/bash/)
+* [shell脚本检查](https://github.com/koalaman/shellcheck)
 
 ## DVB
 * [PSI信息](https://en.wikipedia.org/wiki/Program-specific_information)
