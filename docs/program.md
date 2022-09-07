@@ -1,5 +1,6 @@
 ## git
 * [一小时学会git](https://www.cnblogs.com/best/p/7474442.html)
+* [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
 
 ## 嵌入式
 * [精通嵌入式buildroot](https://www.lotlab.org/2020/04/08/mastering-embedded-linux-part-3-buildroot/)
